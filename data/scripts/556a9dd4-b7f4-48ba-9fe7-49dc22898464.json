@@ -1,0 +1,1 @@
+{"http-server-header": "Apache/2.4.18 (Ubuntu)", "http-title": "Apache2 Ubuntu Default Page: It works", "ssl-cert": "Subject: commonName=multiplohosting.com\nSubject Alternative Name: DNS:multiplohosting.com\nNot valid before: 2023-03-03T02:10:09\nNot valid after:  2023-06-01T02:10:08", "ssl-date": "TLS randomness does not represent time", "tls-alpn": "\n  http/1.1"}

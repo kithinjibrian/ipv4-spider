@@ -1,0 +1,1 @@
+{"smtp-commands": "SMTP: EHLO 550 Bad HELO - Host impersonating hostname [jordifabregat.cyberneticos.net]\r\n", "ssl-cert": "Subject: organizationName=Internet Widgits Pty Ltd/stateOrProvinceName=Some-State/countryName=AU\nNot valid before: 2020-12-24T01:41:44\nNot valid after:  2045-08-15T01:41:44"}

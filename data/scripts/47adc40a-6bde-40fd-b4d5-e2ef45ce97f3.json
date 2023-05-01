@@ -1,0 +1,7 @@
+{
+    "http-title": "400 The plain HTTP request was sent to HTTPS port",
+    "ssl-cert": "Subject: commonName=*.fvoutlet.com/organizationName=\\xE4\\xB8\\x8A\\xE6\\xB5\\xB7\\xE9\\x9C\\x81\\xE6\\x9C\\x97\\xE5\\x9B\\xBD\\xE9\\x99\\x85\\xE8\\xB4\\xB8\\xE6\\x98\\x93\\xE6\\x9C\\x89\\xE9\\x99\\x90\\xE5\\x85\\xAC\\xE5\\x8F\\xB8/countryName=CN\nSubject Alternative Name: DNS:*.fvoutlet.com, DNS:fvoutlet.com\nNot valid before: 2020-08-07T08:55:09\nNot valid after:  2022-08-31T13:11:00",
+    "ssl-date": "TLS randomness does not represent time",
+    "tls-alpn": "\n  http/1.1",
+    "tls-nextprotoneg": "\n  http/1.1"
+}

@@ -1,0 +1,1 @@
+{"ssl-cert": "Subject: commonName=*.prod.phx3.secureserver.net\nSubject Alternative Name: DNS:*.prod.phx3.secureserver.net, DNS:prod.phx3.secureserver.net\nNot valid before: 2023-01-28T23:11:15\nNot valid after:  2024-02-29T23:11:15", "ssl-date": "2023-04-13T16:21:48+00:00; 0s from scanner time."}

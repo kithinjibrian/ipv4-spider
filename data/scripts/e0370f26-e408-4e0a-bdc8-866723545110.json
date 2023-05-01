@@ -1,0 +1,5 @@
+{
+    "ftp-syst": "\n  STAT: \nFTP server status:\n Connected to: 108.61.238.13:21\n Waiting for username.\n TYPE: ASCII; STRUcture: File; MODE: Stream\n Data connection closed.\nEnd of status.",
+    "ssl-cert": "Subject: commonName=108.61.238.13/organizationName=Gameservers.com/stateOrProvinceName=NJ/countryName=US\nNot valid before: 2021-06-30T21:54:58\nNot valid after:  2031-06-28T21:54:58",
+    "ssl-date": "2023-04-18T14:42:58+00:00; 0s from scanner time."
+}

@@ -1,0 +1,4 @@
+{
+    "fingerprint-strings": "\n  NULL: \n    SSH-2.0-_zErR",
+    "ssh-hostkey": "\n  2048 cb:c7:0e:02:91:f7:f9:7e:6b:0b:11:38:70:d0:a1:13 (RSA)\n  256 e0:38:1f:9c:96:36:13:91:d4:95:80:92:fc:19:43:04 (ED25519)"
+}

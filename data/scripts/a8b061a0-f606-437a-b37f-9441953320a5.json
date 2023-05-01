@@ -1,0 +1,5 @@
+{
+    "http-auth": "\nHTTP/1.1 401 Unauthorized\r\n  Basic realm=Restricted Content\n",
+    "http-server-header": "Apache/2.4.6 (CentOS) PHP/5.6.40",
+    "http-title": "401 Unauthorized"
+}

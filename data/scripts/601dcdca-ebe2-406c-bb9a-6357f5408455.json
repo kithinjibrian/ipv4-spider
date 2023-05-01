@@ -1,0 +1,1 @@
+{"pop3-capabilities": "RESP-CODES UIDL USER TOP AUTH-RESP-CODE CAPA PIPELINING SASL(PLAIN)", "ssl-cert": "Subject: organizationName=Internet Widgits Pty Ltd/stateOrProvinceName=Some-State/countryName=AU\nNot valid before: 2020-12-24T01:41:44\nNot valid after:  2045-08-15T01:41:44"}

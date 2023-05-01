@@ -1,0 +1,4 @@
+{
+    "imap-capabilities": "IDLE more SASL-IR have post-login ENABLE capabilities AUTH=PLAINA0001 LOGIN-REFERRALS ID LITERAL+ listed OK STARTTLS Pre-login IMAP4rev1",
+    "ssl-cert": "Subject: commonName=remco71.nl/organizationName=remco van de steeg/stateOrProvinceName=Gelderland/countryName=NL\nSubject Alternative Name: DNS:mail.remco71.nl, DNS:remco71.nl\nNot valid before: 2021-08-07T09:43:05\nNot valid after:  2022-08-08T09:43:05"
+}

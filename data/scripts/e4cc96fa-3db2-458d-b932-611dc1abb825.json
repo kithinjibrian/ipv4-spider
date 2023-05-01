@@ -1,0 +1,6 @@
+{
+    "http-server-header": "CloudFront",
+    "http-title": "ERROR: The request could not be satisfied",
+    "ssl-cert": "Subject: commonName=ilearn.robertwalters.com/organizationName=Robert Walters PLC/stateOrProvinceName=London/countryName=GB\nSubject Alternative Name: DNS:ilearn.robertwalters.com\nNot valid before: 2015-03-20T00:00:00\nNot valid after:  2016-03-19T23:59:59",
+    "ssl-date": "TLS randomness does not represent time"
+}

@@ -1,0 +1,4 @@
+{
+    "fingerprint-strings": "\n  FourOhFourRequest: \n    HTTP/1.1 301 Moved Permanently\n    Server: CradlepointHTTPService/1.0.0\n    Content-Type: text/html; charset=UTF-8\n    Date: Wed, 19 Apr 2023 22:23:28 GMT\n    Location: /admin/\n    Content-Length: 0\n  GetRequest: \n    HTTP/1.1 301 Moved Permanently\n    Server: CradlepointHTTPService/1.0.0\n    Content-Type: text/html; charset=UTF-8\n    Date: Wed, 19 Apr 2023 22:22:20 GMT\n    Location: /admin/\n    Content-Length: 0\n  HTTPOptions: \n    HTTP/1.1 405 Method Not Allowed\n    Server: CradlepointHTTPService/1.0.0\n    Content-Type: text/html; charset=UTF-8\n    Date: Wed, 19 Apr 2023 22:22:22 GMT\n    Content-Length: 87\n    <html><title>405: Method Not Allowed</title><body>405: Method Not Allowed</body></html>",
+    "ssl-cert": "Subject: commonName=cp/organizationName=Cradlepoint, Inc.\nNot valid before: 2019-05-30T22:25:36\nNot valid after:  2024-05-28T22:25:36"
+}

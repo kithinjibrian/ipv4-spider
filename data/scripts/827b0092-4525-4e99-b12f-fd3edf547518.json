@@ -1,0 +1,4 @@
+{
+    "http-title": "Invalid URL",
+    "ssl-cert": "Subject: commonName=mobile.mydealer.mytoyota.jp\nSubject Alternative Name: DNS:mobile.mydealer.mytoyota.jp\nNot valid before: 2023-02-15T01:17:18\nNot valid after:  2024-03-18T01:17:17"
+}

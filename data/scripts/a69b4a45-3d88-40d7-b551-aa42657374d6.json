@@ -1,0 +1,4 @@
+{
+    "ssl-cert": "Subject: commonName=dsldevice.lan/organizationName=NSB/stateOrProvinceName=SH/countryName=CN\nNot valid before: 2016-09-07T06:17:48\nNot valid after:  2036-09-02T06:17:48",
+    "ssl-date": "TLS randomness does not represent time"
+}

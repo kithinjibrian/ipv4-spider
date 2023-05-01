@@ -1,0 +1,6 @@
+{
+    "http-server-header": "CloudFront",
+    "http-title": "ERROR: The request could not be satisfied",
+    "ssl-cert": "Subject: commonName=app.imaginelearning.com\nSubject Alternative Name: DNS:app.imaginelearning.com, DNS:live-teaching.imaginelearning.com, DNS:math-daemons.imaginelearning.com, DNS:umedia.imaginelearning.net, DNS:partnerapp.imaginelearning.com, DNS:content.imaginelearning.com, DNS:math.imaginelearning.com, DNS:reading-media.imaginelearning.com, DNS:my.imaginelearning.com\nNot valid before: 2023-03-25T00:00:00\nNot valid after:  2024-04-22T23:59:59",
+    "ssl-date": "TLS randomness does not represent time"
+}

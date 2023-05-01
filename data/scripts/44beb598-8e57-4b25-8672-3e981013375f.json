@@ -1,0 +1,5 @@
+{
+    "http-open-proxy": "Proxy might be redirecting requests",
+    "http-title": "Did not follow redirect to https://ec2-54-152-241-22.compute-1.amazonaws.com/",
+    "https-redirect": "ERROR: Script execution failed (use -d to debug)"
+}

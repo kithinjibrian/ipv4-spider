@@ -1,0 +1,5 @@
+{
+    "ssl-cert": "Subject: commonName=imperva.com\nSubject Alternative Name: DNS:imperva.com\nNot valid before: 2022-08-17T14:38:42\nNot valid after:  2023-02-13T14:38:42",
+    "ssl-date": "TLS randomness does not represent time",
+    "tls-nextprotoneg": "\n  http/1.1"
+}

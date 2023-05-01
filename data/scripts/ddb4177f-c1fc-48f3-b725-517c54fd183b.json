@@ -1,0 +1,4 @@
+{
+    "fingerprint-strings": "\n  NULL: \n    SSH-2.0-KVi4U",
+    "ssh-hostkey": "\n  2048 26:1f:d1:6e:6f:4c:85:cc:d7:b2:09:c9:4a:3a:b1:c8 (RSA)\n  256 a3:05:f2:21:3f:97:cc:62:4a:96:a6:21:f0:c3:0c:eb (ED25519)"
+}

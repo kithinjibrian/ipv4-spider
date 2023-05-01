@@ -1,0 +1,1 @@
+{"http-methods": "\n  Potentially risky methods: ", "http-server-header": "Apache/2", "http-title": "Shared IP", "ssl-cert": "Subject: commonName=*.gbyte.nl\nSubject Alternative Name: DNS:*.gbyte.nl, DNS:gbyte.nl\nNot valid before: 2016-09-29T00:00:00\nNot valid after:  2017-09-29T23:59:59", "ssl-date": "2023-04-11T12:25:06+00:00; -2d18h57m45s from scanner time."}

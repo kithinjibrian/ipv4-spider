@@ -1,0 +1,6 @@
+{
+    "http-server-header": "CloudFront",
+    "http-title": "ERROR: The request could not be satisfied",
+    "ssl-cert": "Subject: commonName=wnu.com/organizationName=Epoch.com, LLC/stateOrProvinceName=California/countryName=US\nSubject Alternative Name: DNS:aga.wnu.com, DNS:api.wnu.com, DNS:checkout.wnu.com, DNS:enigma.wnu.com, DNS:pay.wnu.com, DNS:services.wnu.com, DNS:static.wnu.com, DNS:www.wnu.com, DNS:wnu.com\nNot valid before: 2016-08-11T00:00:00\nNot valid after:  2018-08-11T23:59:59",
+    "ssl-date": "TLS randomness does not represent time"
+}

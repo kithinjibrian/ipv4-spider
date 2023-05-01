@@ -1,0 +1,4 @@
+{
+    "fingerprint-strings": "\n  FourOhFourRequest, GetRequest, HTTPOptions: \n    HTTP/1.1 404 Not Found\n    CONNECTION: close\n    CONTENT-LENGTH: 48\n    Strict-Transport-Security: max-age=604800; includeSubDomains\n    X-XSS-Protection: 1;mode=block\n    Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval'\n    X-Content-Type-Options: nosniff\n    CONTENT-TYPE: text/html\n    <html><body><h1>404 Not Found</h1></body></html>",
+    "http-title": "Did not follow redirect to https://149.109.121.90:443/"
+}

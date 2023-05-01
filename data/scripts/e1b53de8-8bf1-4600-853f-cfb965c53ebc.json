@@ -1,0 +1,4 @@
+{
+    "http-title": "Invalid URL",
+    "ssl-cert": "Subject: commonName=*.etp.akamai.com/organizationName=Akamai Technologies, Inc/stateOrProvinceName=Massachusetts/countryName=US\nSubject Alternative Name: DNS:*.etp.akamai.com, DNS:etp.akamai.com\nNot valid before: 2023-01-12T00:00:00\nNot valid after:  2024-01-13T23:59:59"
+}

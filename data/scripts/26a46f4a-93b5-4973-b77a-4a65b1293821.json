@@ -1,0 +1,1 @@
+{"imap-capabilities": "NAMESPACE more AUTH=LOGINA0001 ENABLE LOGIN-REFERRALS LITERAL+ OK STARTTLS IDLE AUTH=PLAIN have SASL-IR Pre-login ID post-login listed capabilities IMAP4rev1", "ssl-cert": "Subject: commonName=wdd3.xfantasyx.com\nSubject Alternative Name: DNS:wdd3.xfantasyx.com\nNot valid before: 2023-02-10T00:00:00\nNot valid after:  2023-05-11T23:59:59"}

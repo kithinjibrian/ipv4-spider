@@ -1,0 +1,4 @@
+{
+    "ssl-cert": "Subject: commonName=ip-hoarder.cloudfront.aws.dev\nSubject Alternative Name: DNS:ip-hoarder.cloudfront.aws.dev, DNS:*.ip-hoarder.cloudfront.aws.dev\nNot valid before: 2023-01-25T00:00:00\nNot valid after:  2024-02-24T23:59:59",
+    "ssl-date": "TLS randomness does not represent time"
+}

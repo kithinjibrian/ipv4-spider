@@ -1,0 +1,7 @@
+{
+    "fingerprint-strings": "\n  Kerberos: \n    HTTP/1.1 400 Bad Request\n    Content-Length: 0\n    Connection: close\n    Date: Fri, 14 Apr 2023 16:19:02 GMT\n  LDAPSearchReq: \n    HTTP/1.1 400 Bad Request\n    Content-Length: 0\n    Connection: close\n    Date: Fri, 14 Apr 2023 16:19:19 GMT\n  RTSPRequest: \n    HTTP/1.1 505 HTTP Version Not Supported\n    Content-Length: 0\n    Connection: close\n    Date: Fri, 14 Apr 2023 16:18:34 GMT\n  SIPOptions: \n    HTTP/1.1 505 HTTP Version Not Supported\n    Content-Length: 0\n    Connection: close\n    Date: Fri, 14 Apr 2023 16:19:25 GMT\n  SSLSessionReq: \n    HTTP/1.1 400 Bad Request\n    Content-Length: 0\n    Connection: close\n    Date: Fri, 14 Apr 2023 16:19:00 GMT\n  TLSSessionReq, TerminalServerCookie: \n    HTTP/1.1 400 Bad Request\n    Content-Length: 0\n    Connection: close\n    Date: Fri, 14 Apr 2023 16:19:01 GMT",
+    "http-title": "Microsoft Azure Web App - Error 404",
+    "ssl-cert": "Subject: commonName=*.azurewebsites.net/organizationName=Microsoft Corporation/stateOrProvinceName=WA/countryName=US\nSubject Alternative Name: DNS:*.azurewebsites.net, DNS:*.scm.azurewebsites.net, DNS:*.azure-mobile.net, DNS:*.scm.azure-mobile.net, DNS:*.sso.azurewebsites.net\nNot valid before: 2023-03-10T03:05:55\nNot valid after:  2024-03-04T03:05:55",
+    "ssl-date": "2023-04-14T16:20:34+00:00; 0s from scanner time.",
+    "tls-alpn": "\n  http/1.1"
+}

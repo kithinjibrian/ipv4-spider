@@ -1,0 +1,7 @@
+{
+    "http-title": "Invalid URL",
+    "ssl-cert": "Subject: commonName=*.hcm.em3.oraclecloud.com/organizationName=Oracle Corporation/stateOrProvinceName=California/countryName=US\nSubject Alternative Name: DNS:*.hcm.em3.oraclecloud.com, DNS:hcm.em3.oraclecloud.com\nNot valid before: 2023-02-25T00:00:00\nNot valid after:  2024-02-28T23:59:59",
+    "ssl-date": "TLS randomness does not represent time",
+    "tls-alpn": "\n  http/1.1",
+    "tls-nextprotoneg": "\n  http/1.1\n  http/1.0"
+}

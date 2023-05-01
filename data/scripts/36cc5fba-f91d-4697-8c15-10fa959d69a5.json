@@ -1,0 +1,4 @@
+{
+    "fingerprint-strings": "\n  GetRequest, HTTPOptions: \n    HTTP/1.1 404 Site Not Found\n    Content-Length: 2667\n    Connection: close\n    Content-Type: text/html\n    Date: Fri, 14 Apr 2023 16:18:15 GMT\n    <!DOCTYPE html>\n    <html>\n    <head>\n    <title>Microsoft Azure Web App - Error 404</title>\n    <style type=\"text/css\">\n    html {\n    height: 100%;\n    width: 100%;\n    #feature {\n    width: 960px;\n    margin: 75px auto 0 auto;\n    overflow: auto;\n    #content {\n    font-family: \"Segoe UI\";\n    font-weight: normal;\n    font-size: 22px;\n    color: #ffffff;\n    float: left;\n    margin-top: 68px;\n    margin-left: 0px;\n    vertical-align: middle;\n    #content h1 {\n    font-family: \"Segoe UI Light\";\n    color: #ffffff;\n    font-weight: normal;",
+    "http-title": "Microsoft Azure Web App - Error 404"
+}

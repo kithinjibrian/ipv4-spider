@@ -1,0 +1,4 @@
+{
+    "fingerprint-strings": "\n  HTTPOptions, RTSPRequest: \n    RTSP/1.0 200 OK\n    CSeq: 0\n    Server: Rtsp Server/3.0\n    Public: OPTIONS, DESCRIBE, ANNOUNCE, SETUP, PLAY, RECORD, PAUSE, TEARDOWN, SET_PARAMETER, GET_PARAMETER\n  SIPOptions: \n    RTSP/1.0 200 OK\n    CSeq: 42\n    Server: Rtsp Server/3.0\n    Public: OPTIONS, DESCRIBE, ANNOUNCE, SETUP, PLAY, RECORD, PAUSE, TEARDOWN, SET_PARAMETER, GET_PARAMETER",
+    "rtsp-methods": "ERROR: Script execution failed (use -d to debug)"
+}

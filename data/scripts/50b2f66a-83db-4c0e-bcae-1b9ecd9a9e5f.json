@@ -1,0 +1,7 @@
+{
+    "http-title": "Invalid URL",
+    "ssl-cert": "Subject: commonName=www.playgwent.com/organizationName=CD PROJEKT SA/stateOrProvinceName=Mazowieckie/countryName=PL\nSubject Alternative Name: DNS:www.playgwent.com\nNot valid before: 2022-07-21T00:00:00\nNot valid after:  2023-07-21T23:59:59",
+    "ssl-date": "TLS randomness does not represent time",
+    "tls-alpn": "\n  http/1.1",
+    "tls-nextprotoneg": "\n  http/1.1\n  http/1.0"
+}

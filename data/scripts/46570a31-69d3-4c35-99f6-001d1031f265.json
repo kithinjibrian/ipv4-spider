@@ -1,0 +1,5 @@
+{
+    "rdp-ntlm-info": "\n  Target_Name: INSTANCE-1\n  NetBIOS_Domain_Name: INSTANCE-1\n  NetBIOS_Computer_Name: INSTANCE-1\n  DNS_Domain_Name: instance-1\n  DNS_Computer_Name: instance-1\n  Product_Version: 10.0.17763\n  System_Time: 2023-04-17T03:26:20+00:00",
+    "ssl-cert": "Subject: commonName=instance-1\nNot valid before: 2023-03-25T09:52:35\nNot valid after:  2023-09-24T09:52:35",
+    "ssl-date": "2023-04-17T03:26:21+00:00; 0s from scanner time."
+}

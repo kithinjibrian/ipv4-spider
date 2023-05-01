@@ -1,0 +1,6 @@
+{
+    "http-server-header": "CloudFront",
+    "http-title": "ERROR: The request could not be satisfied",
+    "ssl-cert": "Subject: commonName=whoosh.virginmedia.com\nSubject Alternative Name: DNS:whoosh.virginmedia.com\nNot valid before: 2022-08-31T10:42:01\nNot valid after:  2023-09-05T09:19:55",
+    "ssl-date": "TLS randomness does not represent time"
+}

@@ -1,0 +1,4 @@
+{
+    "imap-capabilities": "SASL-IR LITERAL+ more ENABLE have post-login listed LOGIN-REFERRALS IDLE ID Pre-login OK IMAP4rev1 AUTH=PLAINA0001 capabilities",
+    "ssl-cert": "Subject: commonName=vps6a.goforit.nl\nSubject Alternative Name: DNS:vps6a.goforit.nl\nNot valid before: 2023-02-25T22:18:10\nNot valid after:  2023-05-26T22:18:09"
+}

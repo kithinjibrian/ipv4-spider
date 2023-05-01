@@ -1,0 +1,3 @@
+{
+    "smtp-commands": "SMTP: EHLO 550 Bad HELO - Host impersonating hostname [vps6a.goforit.nl]\r\n"
+}

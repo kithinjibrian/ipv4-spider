@@ -1,0 +1,3 @@
+{
+    "ssl-cert": "Subject: commonName=62.94.196.12\nSubject Alternative Name: IP Address:62.94.196.12, IP Address:2001:750:2:32:DE15:C8FF:FECA:773B, DNS:fritz.box, DNS:www.fritz.box, DNS:myfritz.box, DNS:www.myfritz.box, DNS:fritz.nas, DNS:www.fritz.nas\nNot valid before: 2023-04-14T00:10:31\nNot valid after:  2038-01-16T00:10:31"
+}

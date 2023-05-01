@@ -1,0 +1,4 @@
+{
+    "http-auth": "\nHTTP/1.1 401 Unauthorized\r\n  Digest nonce=eae2d1bd35c022e7fae763c82a422dd2 uri=/ realm=dirname opaque=0123456789987654 qop=auth algorithm=MD5\n",
+    "http-server-header": "mini_httpd/1.19 19dec2003"
+}

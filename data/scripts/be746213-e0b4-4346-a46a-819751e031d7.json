@@ -1,0 +1,3 @@
+{
+    "fingerprint-strings": "\n  FourOhFourRequest, GetRequest: \n    HTTP/1.1 404 Not Found\n  GenericLines, HTTPOptions, NULL, RTSPRequest, SIPOptions: \n    HTTP/1.1 500 Error (Internal Server Error)"
+}

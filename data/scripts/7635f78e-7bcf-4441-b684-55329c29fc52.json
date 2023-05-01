@@ -1,0 +1,6 @@
+{
+    "http-favicon": "Hikvision DVR",
+    "http-methods": "\n  Potentially risky methods: PUT DELETE",
+    "http-server-header": "DNVRS-Webs",
+    "http-title": "index"
+}

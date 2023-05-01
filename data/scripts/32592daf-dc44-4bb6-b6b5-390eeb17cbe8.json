@@ -1,0 +1,7 @@
+{
+    "http-title": "Invalid URL",
+    "ssl-cert": "Subject: commonName=*.givebig.org/organizationName=Payment-as-a-Service Corporation/stateOrProvinceName=Virginia/countryName=US\nSubject Alternative Name: DNS:*.givebig.org, DNS:givebig.org\nNot valid before: 2021-10-09T00:00:00\nNot valid after:  2022-10-11T23:59:59",
+    "ssl-date": "TLS randomness does not represent time",
+    "tls-alpn": "\n  http/1.1",
+    "tls-nextprotoneg": "\n  http/1.1\n  http/1.0"
+}

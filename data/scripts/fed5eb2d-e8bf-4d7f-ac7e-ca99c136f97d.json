@@ -1,0 +1,7 @@
+{
+    "http-title": "Invalid URL",
+    "ssl-cert": "Subject: commonName=www.mytheresa.com/organizationName=mytheresa.com GmbH/stateOrProvinceName=Bayern/countryName=DE\nSubject Alternative Name: DNS:www.mytheresa.com, DNS:digital-pop-up-valentino.mytheresa.com, DNS:img-acceptance.mytheresa.com, DNS:img-dev.mytheresa.com, DNS:img-production.mytheresa.com, DNS:img-test.mytheresa.com, DNS:img.mytheresa.com, DNS:mytheresa.com, DNS:web-acceptance-assets.mytheresa.com, DNS:web-dev-assets.mytheresa.com, DNS:web-production-assets.mytheresa.com, DNS:web-test-assets.mytheresa.com\nNot valid before: 2022-05-27T00:00:00\nNot valid after:  2023-05-31T23:59:59",
+    "ssl-date": "TLS randomness does not represent time",
+    "tls-alpn": "\n  http/1.1",
+    "tls-nextprotoneg": "\n  http/1.1\n  http/1.0"
+}

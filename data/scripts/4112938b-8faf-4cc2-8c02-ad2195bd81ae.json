@@ -1,0 +1,5 @@
+{
+    "http-methods": "\n  Potentially risky methods: TRACE",
+    "http-server-header": "Microsoft-IIS/10.0",
+    "http-title": "Unity WebGL Player | CameraSystem"
+}
